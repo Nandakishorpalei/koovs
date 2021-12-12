@@ -1,3 +1,12 @@
-# koovs
-Our first project
-navbar done. 
+# KOOVS
+### A SHOPPING WEBSITE
+
+<br>
+
+
+# TECH STACK
+
+- JAVASCRIPT
+- HTML
+- CSS
+
