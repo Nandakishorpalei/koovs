@@ -1,3 +1,2 @@
 # koovs
-Our first project
-navbar done. 
+###A SHOPPING WEBSITE
