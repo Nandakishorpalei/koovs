@@ -1,2 +1,12 @@
-# koovs
-###A SHOPPING WEBSITE
+# KOOVS
+### A SHOPPING WEBSITE
+
+<br>
+
+
+# TECH STACK
+
+- JAVASCRIPT
+- HTML
+- CSS
+
