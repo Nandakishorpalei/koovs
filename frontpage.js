@@ -11,8 +11,3 @@ function playvid(){
         video.pause();
     }
 } 
-
-document.getElementById("vmaindiv").addEventListener("click",function(){
-    alert("clicked");
-    window.location.href= "/products.html";
-})
