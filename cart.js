@@ -240,7 +240,7 @@ document.getElementById("promobtn").addEventListener("click",function(){
 })
 
 document.getElementById("lastbtn").addEventListener("click",function(){
-  window.location.href="orderSum.html";
+  window.location.href="ordersum.html";
 })
 
 var addresses = JSON.parse(localStorage.getItem("addressDetail")) || [];
